@@ -1,0 +1,12 @@
+{
+  "name": "mario-kart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pedro Gurgel",
+  "license": "ISC",
+  "description": "Pequeno jogo minimage de simulação MarioKart em terminal NODEJS"
+}
