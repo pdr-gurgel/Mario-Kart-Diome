@@ -1,6 +1,4 @@
-# 🚦 Mario Kart.JS: Desafio de Projeto do Felipão 🚦
-
-![Mario Kart Header](./docs/header.gif)
+# 🚦 Mario Kart.JS: Desafio de Projeto em NODEJS 🚦
 
 Mario Kart é uma série de jogos de corrida desenvolvida pela Nintendo. Este projeto é um desafio divertido e interativo, cujo objetivo é simular corridas do Mario Kart usando JavaScript, implementando lógica de jogabilidade com base em atributos dos personagens, sorteios e mecânicas específicas.
 
@@ -11,6 +9,7 @@ Criar a lógica de um jogo que simula corridas de Mario Kart, considerando regra
 
 Os jogadores competem em 5 rodadas por uma pista aleatória que desafia habilidades de velocidade, manobrabilidade e poder. O vencedor será aquele que acumular mais pontos ao final da corrida.
 
+O objetivo desse desafio para aprimorar as habilidades em nodeJS foi para a criacao de um primeiro projeto pratico e desenvolvimento de logica de programacao.
 ---
 
 ## 🕹️ Regras e Mecânicas
